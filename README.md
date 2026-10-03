@@ -1,39 +1,15 @@
-TaskMaster - Daily Task Manager
+# Taskmaster — Daily Task List
 
-🎯 What is it?
+A compact task-list app with task creation, completion tracking, deletion, and a progress count. Tasks are saved in the browser with `localStorage` so they remain after a page refresh on the same browser.
 
-TaskMaster is a super simple todo list app to organize your daily tasks quickly!
+## Run locally
 
-In short:
+Open `index.html` in a modern browser. No install or build step is required.
 
-Write what to do
-Check off when done
-Delete when finished
-See your progress
-💡 Perfect For
+## Stack
 
-✅ Students (homework tracking)
-✅ Freelancers (daily tasks)
-✅ Everyone! (even grocery lists 😄)
-🔥 Why Use It?
+HTML · CSS · Vanilla JavaScript · `localStorage`
 
+## Scope
 
-Copy code
-1❌ Complex apps ❌ Setup hassle ❌ Framework knowledge
-2✅ Works in 3 seconds ✅ Mobile/PC ready ✅ Free ✅ Fast
-🎮 How to Use (30 Seconds)
-
-
-Copy code
-11. Open index.html → Type task → Enter
-22. ✅ Check to complete
-33. 🗑️ Delete button
-44. Close/reopen → Tasks saved! ✨
-📊 Real Examples
-
-
-Copy code
-1🛒 Grocery: Milk, bread, eggs
-2📚 Study: Math, Physics
-3💼 Work: Send email, finish report
-Organize your life with one click! 🚀
+Tasks stay in the local browser profile. There are no user accounts, cloud sync, or shared task lists.
